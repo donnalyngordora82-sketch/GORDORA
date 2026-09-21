@@ -1,0 +1,2 @@
+# GORDORA
+first reporitory
